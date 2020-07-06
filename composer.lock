@@ -2325,12 +2325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rendrianarma/jooxapi-x.git",
-                "reference": "f789c28b1e1e074bd862f0484d14793a42806995"
+                "reference": "4d266b3edec848e29394b01bd5e5abff38b93110"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rendrianarma/jooxapi-x/zipball/f789c28b1e1e074bd862f0484d14793a42806995",
-                "reference": "f789c28b1e1e074bd862f0484d14793a42806995",
+                "url": "https://api.github.com/repos/rendrianarma/jooxapi-x/zipball/4d266b3edec848e29394b01bd5e5abff38b93110",
+                "reference": "4d266b3edec848e29394b01bd5e5abff38b93110",
                 "shasum": ""
             },
             "type": "library",
@@ -2350,7 +2350,7 @@
                 }
             ],
             "description": "PHP JOOX API Wrapper",
-            "time": "2020-07-06T12:20:25+00:00"
+            "time": "2020-07-06T13:01:41+00:00"
         },
         {
             "name": "symfony/console",
